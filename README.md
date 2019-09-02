@@ -5,4 +5,4 @@ The logo was generated in [Inkscape](https://inkscape.org). The font for the ban
 
 <img src="compgeolab.png" width="100">
 
-<img src="compgeolab-banner.png" width="100">
+<img src="compgeolab-banner.png" width="300">

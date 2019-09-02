@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="4300"
+   width="4400"
    height="800"
-   viewBox="0 0 1137.7084 211.66667"
+   viewBox="0 0 1164.1668 211.66667"
    version="1.1"
    id="svg8"
    inkscape:version="0.92.4 5da689c313, 2019-01-14"
@@ -39,15 +39,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.12374369"
-     inkscape:cx="947.96381"
-     inkscape:cy="-1419.3074"
+     inkscape:cx="1905.4917"
+     inkscape:cy="-1492.0384"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1576"
-     inkscape:window-height="1774"
-     inkscape:window-x="1609"
-     inkscape:window-y="11"
+     inkscape:window-width="3200"
+     inkscape:window-height="1800"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="0"
      fit-margin-top="0"
      fit-margin-left="0"
@@ -70,7 +70,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(769.55243,260.07711)">
+     transform="translate(768.45777,260.07711)">
     <g
        id="g870"
        transform="translate(43.845238,-981.22619)">
@@ -104,9 +104,9 @@
     </g>
     <g
        id="g944"
-       transform="translate(1.0946599)">
+       transform="translate(1.0946551)">
       <g
-         transform="matrix(1.4910874,0,0,1.4910874,224.32609,75.747158)"
+         transform="matrix(1.4910874,0,0,1.4910874,251.8791,75.747158)"
          id="text823"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:88.08005524px;line-height:0.75;font-family:Scheherazade;-inkscape-font-specification:Scheherazade;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.66060042"
          aria-label="COMPUTER-ORIENTED GEOSCIENCE LAB">
@@ -264,7 +264,7 @@
       <g
          inkscape:label="Layer 1"
          id="layer1-3"
-         transform="translate(4.447885,-2.0516374e-6)">
+         transform="translate(5.5425449,-2.0516374e-6)">
         <g
            id="g839"
            clip-path="url(#clipPath854)">
