@@ -1,12 +1,7 @@
 # Logo and branding material for the group
 
-The logo was generated in [Inkscape](https://inkscape.org). The font for the banner is
-[VT323](https://fonts.google.com/specimen/VT323).
-
-`compgeolab.png`:
+The logo was generated in [Inkscape](https://inkscape.org). Vector files (SVG) are
+preferred. PNGs are also available for use in social media, etc.
 
 <img src="compgeolab.png" width="100">
-
-`compgeolab-banner.png`:
-
-<img src="compgeolab-banner.png" width="300">
+<img src="compgeolab-dark-background.png" width="100">
